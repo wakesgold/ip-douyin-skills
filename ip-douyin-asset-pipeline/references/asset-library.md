@@ -18,14 +18,18 @@ If the material is incomplete, still start the account. Use confirmed facts only
 
 ### 8 Questions For The On-Camera Person
 
-1. **出镜身份**：你希望用户记住你是谁？你代表老板、创始人、顾问、运营者、店主、老师、销售、品牌方，还是其他身份？
-2. **目标用户**：你最想吸引谁？他们现在最痛、最急、最想改变的问题是什么？
-3. **业务结果**：你的产品/服务能具体帮用户得到什么结果？哪些结果已经被案例或数据验证？
-4. **可信证据**：用户凭什么相信你？包括经历、数据、案例、客户评价、资质、资源、团队、交付过程。
-5. **差异壁垒**：你和同行最大的不同是什么？产品、方法、审美、服务、资源、价格、效率或价值观哪里不一样？
-6. **关键故事**：你为什么做这个业务？有没有低谷、高光、转折、失败教训、客户故事或最能代表你的经历？
-7. **表达风格**：你平时说话像什么？常用口头禅是什么？哪些词、语气、姿态绝对不能用？
-8. **平台网感与边界**：你喜欢/讨厌哪些抖音账号或内容？愿不愿出镜、拍现场、讲客户故事？哪些内容不能公开或必须匿名？
+Use these 8 deep-interview dimensions first, especially for local-life, restaurant, store-owner, and offline service accounts. For other industries, translate the same logic to the user's category, product, market, operations, competition, investment, and expression style.
+
+| Dimension | Required Questions |
+|---|---|
+| 1. 品类动机 | 为什么选这个品类？看到过什么“没人做好”？为它付出过什么代价？ |
+| 2. 手艺与产品壁垒 | 核心产品和同行本质不同在哪？哪个原料/工艺你坚持用好的？哪道菜端上来会“哇”？ |
+| 3. 个人故事 | 开店前做什么？人生最疯狂/最倔的一件事？为什么留在这个城市？ |
+| 4. 本地基因 | 本地认识哪些 KOL/同行？用户选新店靠什么决策？ |
+| 5. 经营现状 | 日均营业额、客单、翻台、忙闲时段、回头客比例、最大痛点？ |
+| 6. 竞品认知 | 本地谁做得好？谁做得不对？为什么有些店抖音能起来？ |
+| 7. 投入预期 | 每月愿意投多少时间/钱？三个月没效果怎么办？愿不愿出镜？火了能不能接住？ |
+| 8. 审美与表达 | 平时爱看什么账号？手机里产品照片/视频如何？高级感还是烟火气？ |
 
 ### Quick Launch
 

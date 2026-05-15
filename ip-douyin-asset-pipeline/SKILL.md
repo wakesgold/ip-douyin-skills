@@ -11,6 +11,16 @@ Build a reusable account asset library for a business, then use **viral structur
 
 This skill is for **starting or operating an account with the assets currently available**. If background material is thin, start with a lightweight account launch and keep an explicit backlog of missing account assets to collect later.
 
+## Opening Move
+
+At the start of a new account project, first guide the user to upload or paste the on-camera person's source material:
+
+- Answers to the 8 on-camera person questions in `references/asset-library.md`.
+- Existing deep-interview notes, transcripts, voice-to-text drafts, client intake forms, chat records, or account-planning documents.
+- Existing account links, viral samples, product/case assets, and compliance boundaries if available.
+
+If the user does not have complete material, continue with quick launch using what exists. Do not block startup; clearly mark missing items as `待补账号资产` and remind the user to complete them later.
+
 ## Core Formula
 
 ```text
@@ -20,6 +30,8 @@ This skill is for **starting or operating an account with the assets currently a
 ## Workflow
 
 1. **Clarify the account**
+   - First ask the user to upload/paste the on-camera person's 8-question answers or deep-interview material.
+   - If nothing is ready, collect the minimum quick-launch brief and proceed.
    - Business/IP name, platform, account stage, industry, target user, content goal, monetization path, and public boundaries.
    - If the field is unclear, ask before assuming. Domain details change what counts as proof, risk, and a strong hook.
    - Decide the mode:
@@ -63,6 +75,7 @@ This skill is for **starting or operating an account with the assets currently a
 
 If the user asks for content but does not provide enough material, ask only the missing high-impact fields:
 
+- 出镜人8问/深访材料：
 - 账号/IP名称：
 - 目标用户：
 - 本条目标：
@@ -75,6 +88,7 @@ If the user asks for content but does not provide enough material, ask only the 
 For quick launch, these are enough to begin:
 
 - 账号/IP名称：
+- 出镜人是谁/以什么身份出镜：
 - 目标用户：
 - 业务/产品解决的问题：
 - 1-3 个真实案例或卖点：

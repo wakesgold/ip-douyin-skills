@@ -6,6 +6,27 @@ Use this to build or repair the account's reusable material base before drafting
 
 Do not require a long background interview before starting the account.
 
+## On-Camera Person Intake
+
+At the beginning of an account project, ask the user to upload or paste one of these:
+
+- The on-camera person's answers to the 8 questions below.
+- Deep-interview notes, transcript, voice-to-text draft, client questionnaire, chat history, or any existing positioning document.
+- Existing account links, target benchmarks, product/case materials, customer reviews, or compliance limits.
+
+If the material is incomplete, still start the account. Use confirmed facts only and list missing items under `待补账号资产`.
+
+### 8 Questions For The On-Camera Person
+
+1. **出镜身份**：你希望用户记住你是谁？你代表老板、创始人、顾问、运营者、店主、老师、销售、品牌方，还是其他身份？
+2. **目标用户**：你最想吸引谁？他们现在最痛、最急、最想改变的问题是什么？
+3. **业务结果**：你的产品/服务能具体帮用户得到什么结果？哪些结果已经被案例或数据验证？
+4. **可信证据**：用户凭什么相信你？包括经历、数据、案例、客户评价、资质、资源、团队、交付过程。
+5. **差异壁垒**：你和同行最大的不同是什么？产品、方法、审美、服务、资源、价格、效率或价值观哪里不一样？
+6. **关键故事**：你为什么做这个业务？有没有低谷、高光、转折、失败教训、客户故事或最能代表你的经历？
+7. **表达风格**：你平时说话像什么？常用口头禅是什么？哪些词、语气、姿态绝对不能用？
+8. **平台网感与边界**：你喜欢/讨厌哪些抖音账号或内容？愿不愿出镜、拍现场、讲客户故事？哪些内容不能公开或必须匿名？
+
 ### Quick Launch
 
 Use when the user wants to start now, time is limited, or the account needs first scripts before deeper asset collection.
@@ -13,6 +34,7 @@ Use when the user wants to start now, time is limited, or the account needs firs
 Minimum viable fields:
 
 - Account/IP name.
+- Who appears on camera and in what identity.
 - Target user.
 - Business/product problem solved.
 - 1-3 real cases, proof points, or visible selling points.
@@ -71,6 +93,12 @@ Answers: How can AI sound like this person instead of generic copy?
 
 ```markdown
 # 【业务/IP名称】IP资产启动表
+
+## 0. 出镜人资料来源
+- 已上传/已粘贴的8问答案：
+- 已上传/已粘贴的深访材料：
+- 可参考的账号/样本/链接：
+- 当前缺失的信息：
 
 ## 1. 账号一句话定位
 - 我是谁：

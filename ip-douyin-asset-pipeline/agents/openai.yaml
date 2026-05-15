@@ -1,0 +1,6 @@
+interface:
+  display_name: "IP 资产库出稿流水线"
+  short_description: "把业务资产库转成可发布的抖音内容流水线"
+  default_prompt: "Use $ip-douyin-asset-pipeline to build an IP asset library and draft Douyin content for a business account."
+policy:
+  allow_implicit_invocation: true

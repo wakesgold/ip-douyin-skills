@@ -20,7 +20,9 @@ If the material is incomplete, still start the account. Use confirmed facts only
 
 Use these 8 deep-interview dimensions first, especially for local-life, restaurant, store-owner, and offline service accounts. For other industries, translate the same logic to the user's category, product, market, operations, competition, investment, and expression style.
 
-| Dimension | Required Questions |
+When collecting or reviewing material, remind the user of the **必问问题** for each dimension. Do not accept a dimension as complete unless its required questions have been answered with concrete facts, examples, or data.
+
+| 维度 | 必问问题 |
 |---|---|
 | 1. 品类动机 | 为什么选这个品类？看到过什么“没人做好”？为它付出过什么代价？ |
 | 2. 手艺与产品壁垒 | 核心产品和同行本质不同在哪？哪个原料/工艺你坚持用好的？哪道菜端上来会“哇”？ |

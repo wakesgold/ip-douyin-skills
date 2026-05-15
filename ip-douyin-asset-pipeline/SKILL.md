@@ -19,7 +19,7 @@ At the start of a new account project, first guide the user to upload or paste t
 - Existing deep-interview notes, transcripts, voice-to-text drafts, client intake forms, chat records, or account-planning documents.
 - Existing account links, viral samples, product/case assets, and compliance boundaries if available.
 
-If the user does not have complete material, continue with quick launch using what exists. Do not block startup; clearly mark missing items as `待补账号资产` and remind the user to complete them later.
+If the user gives enough material, automatically analyze it and fill the 8-question intake table before asking anything else. If the table is incomplete, ask only the missing required questions. If the user cannot complete them, continue with quick launch using what exists, mark gaps as `待补账号资产`, and remind the user to complete them later.
 
 ## Core Formula
 
@@ -29,44 +29,51 @@ If the user does not have complete material, continue with quick launch using wh
 
 ## Workflow
 
-1. **Clarify the account**
+1. **Map existing material to the 8 questions**
    - First ask the user to upload/paste the on-camera person's 8-question answers or deep-interview material.
-   - If nothing is ready, collect the minimum quick-launch brief and proceed.
+   - If material is provided, read it before asking more questions.
+   - Auto-fill the 8 dimensions in `references/asset-library.md` from confirmed facts, examples, and data in the material.
+   - Mark each dimension as `完整`, `部分完整`, or `缺失`.
+   - For `部分完整` or `缺失` dimensions, ask only the missing required questions.
+   - If the user cannot answer now, preserve the gap under `待补账号资产` and continue to quick launch with current material.
+
+2. **Clarify the account**
+   - If no source material is ready, collect the minimum quick-launch brief and proceed.
    - Business/IP name, platform, account stage, industry, target user, content goal, monetization path, and public boundaries.
    - If the field is unclear, ask before assuming. Domain details change what counts as proof, risk, and a strong hook.
    - Decide the mode:
      - **Quick launch**: start with minimum viable account assets and produce first columns/scripts now.
      - **Asset completion mode**: pause drafting briefly when proof, positioning, target user, or compliance boundaries are too thin to write safely.
 
-2. **Build the IP asset library**
+3. **Build the IP asset library**
    - Use `references/asset-library.md`.
    - Separate person assets, business cognition assets, product/service proof, case data, expression style, and banned claims.
    - If assets are thin but the user wants to start, do not stop. Mark thin areas as `待补账号资产`, use safer business/product/case assets first, and remind the user what should be collected later.
 
-3. **Choose a content goal**
+4. **Choose a content goal**
    - 涨粉, 建信任, 成交, 招商, 复购, 招人, 解释产品, 活动预热, 私域转化, or直播承接.
    - Every script must have one primary goal.
 
-4. **Extract viral structure**
+5. **Extract viral structure**
    - Ask for a sample or infer a structure from the goal. Do not copy original wording.
    - Capture hook, first 3 seconds, conflict, turn, proof, emotional driver, and comment trigger.
 
-5. **Draft with the 80/20 rule**
+6. **Draft with the 80/20 rule**
    - 80% imitate structure, rhythm, and emotional progression.
    - 20% replace with the account's real stories, cases, data, opinions, and speaking style.
 
-6. **Review and revise**
+7. **Review and revise**
    - Use `references/review-checklists.md`.
    - Run 七问原则, 七宗罪驱动力, compliance,口语化, and proof checks.
    - Score before finalizing; low-score items require rewriting.
 
-7. **Package output**
+8. **Package output**
    - Provide titles, 60-second口播稿, optional 3-minute version, caption/朋友圈 version, cover text, comment trigger, and what asset each version used.
 
-8. **Feed data back**
+9. **Feed data back**
    - After publishing, record high-performing titles, hooks, comments, objections, conversion language, and reasons for failure.
 
-9. **Remind and backfill account assets**
+10. **Remind and backfill account assets**
    - At the end of quick-launch outputs, include a short `后续需补的账号资产` section.
    - Prioritize missing material that would improve the next 10-30 pieces of content: origin story, proof, case detail, failure lesson, signature phrase, platform taste, public boundary.
    - Turn the backlog into focused collection questions for the next account-planning session.

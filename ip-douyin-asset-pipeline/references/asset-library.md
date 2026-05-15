@@ -14,7 +14,17 @@ At the beginning of an account project, ask the user to upload or paste one of t
 - Deep-interview notes, transcript, voice-to-text draft, client questionnaire, chat history, or any existing positioning document.
 - Existing account links, target benchmarks, product/case materials, customer reviews, or compliance limits.
 
-If the material is incomplete, still start the account. Use confirmed facts only and list missing items under `待补账号资产`.
+If material is provided, first map it into the 8-question table automatically. Do not ask the user to repeat information already present in the material. Use confirmed facts only and list missing items under `待补账号资产`.
+
+### Completeness Check
+
+For each dimension, decide:
+
+- **完整**: the required questions are answered with concrete facts, examples, or data.
+- **部分完整**: the answer exists but lacks detail, proof, timeline, numbers, names/roles, scenes, or consequences.
+- **缺失**: the material does not answer the required questions.
+
+After mapping, ask only the `部分完整` and `缺失` items as targeted follow-up questions. If the user cannot complete them now, proceed with quick launch and keep those items in `待补账号资产`.
 
 ### 8 Questions For The On-Camera Person
 
@@ -51,7 +61,7 @@ When using quick launch:
 
 - Prefer business, product, case, and user-pain content over deep persona stories.
 - Mark missing material as `待补账号资产`.
-- End with 3-7 focused questions for a later account-planning session.
+- End with 3-7 focused questions for a later account-planning session, based only on the incomplete 8-question dimensions.
 
 ### Asset Completion Mode
 
